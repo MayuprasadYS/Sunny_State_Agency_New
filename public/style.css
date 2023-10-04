@@ -1800,7 +1800,7 @@ a {
   /* Adjust as needed */
   height: 70px;
   /* Adjust as needed */
-  background: url('../public/images/video-play-5876.svg') no-repeat center center;
+  background: url('./images/video-play-5876.svg') no-repeat center center;
   background-size: 100% 100%;
   /* Adjust as needed */
   opacity: 1;
